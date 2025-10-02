@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Aurora Ring",
+    "popularityScore": 76,
+    "weight": 12.5,
+    "images": {
+      "gold": "/images/aurora/gold.svg",
+      "silver": "/images/aurora/silver.svg",
+      "rose": "/images/aurora/rose.svg"
+    }
+  },
+  {
+    "name": "Luna Necklace",
+    "popularityScore": 92,
+    "weight": 18,
+    "images": {
+      "gold": "/images/luna/gold.svg",
+      "silver": "/images/luna/silver.svg",
+      "rose": "/images/luna/rose.svg"
+    }
+  },
+  {
+    "name": "Orion Bracelet",
+    "popularityScore": 58,
+    "weight": 9.7,
+    "images": {
+      "gold": "/images/orion/gold.svg",
+      "silver": "/images/orion/silver.svg",
+      "rose": "/images/orion/rose.svg"
+    }
+  }
+]
